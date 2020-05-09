@@ -1,2 +1,2 @@
 def hello_world(request):
-    return f'Hello world'
+    return f'Hello World! This is the world!'
